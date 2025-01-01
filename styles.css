@@ -39,7 +39,7 @@ header {
 /* Hero Section */
 #hero {
     position: relative;
-    background: url('2.jpg') center/cover no-repeat;
+    background: url('2.JPG') center/cover no-repeat;
     height: 100vh;
     display: flex;
     align-items: center;
